@@ -1,0 +1,4 @@
+fontawesome
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+jquery
+https://pro-next.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff2
